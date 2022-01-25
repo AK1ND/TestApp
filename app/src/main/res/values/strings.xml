@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestApp</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="sort_text">Sort</string>
+</resources>
